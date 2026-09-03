@@ -198,30 +198,21 @@ The final dashboard provides a business-focused overview of the e-commerce perfo
 
 ---
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 
-```text
-Raw E-Commerce Data
-        ↓
-Data Cleaning & Preparation
-        ↓
-Exploratory Data Analysis
-        ↓
-Python Analysis
-        ↓
-SQL Business Queries
-        ↓
-Power BI Data Modeling
-        ↓
-Dashboard Development
-        ↓
-Business Insights
-
+1. Raw E-Commerce Data
+2. Data Cleaning & Preparation
+3. Exploratory Data Analysis
+4. Python Analysis
+5. SQL Business Queries
+6. Power BI Data Modeling
+7. Dashboard Development
+8. Business Insights
 
 ---
 
-
 # 👨‍💻 Author
+
 ## Shifat Kaleem
 
 **Aspiring Data Analyst | MBA (International Business)**
