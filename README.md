@@ -217,3 +217,18 @@ Dashboard Development
         ↓
 Business Insights
 
+# 👨‍💻 Author
+
+## Shifat Kaleem
+
+**Aspiring Data Analyst | MBA (International Business)**
+
+Interested in **Data Analytics, Business Intelligence, Business Development, and Consulting**.
+
+### Technical Skills
+
+**Excel | SQL | Python | Pandas | NumPy | Matplotlib | Power BI**
+
+---
+
+⭐ If you find this project useful, feel free to explore the analysis and dashboard visualizations.
